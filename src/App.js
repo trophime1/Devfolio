@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './pages/header';
 import Hello from './pages/hero';
@@ -10,10 +10,12 @@ import Testimony from './pages/testimony';
 import Blog from './pages/blog';
 import Contact from './pages/contact';
 import Footer from './pages/footer';
+import {BrowserRouter as Router ,Route ,Routes} from 'react-router-dom';
 
 function App() {
   return (
     <>
+
     <Header />
     <Hello />
     <About />
