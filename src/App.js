@@ -12,7 +12,8 @@ import Contact from './pages/contact';
 import Footer from './pages/footer';
 import { useEffect } from 'react';
 import {BrowserRouter as Router ,Route ,Routes} from 'react-router-dom';
-import ScriptTag from 'react';
+// import "bootstrap/dist/css/bootstrap.min.css"
+
 
 function App() {
   const scrollWithHash =() => {
@@ -43,6 +44,8 @@ function App() {
 
 		const script = document.createElement('script');
 		script.src = "/assets/js/main.js";
+		// script.src= "/assets/vendor/purecounter/purecounter.js"
+	
 		script.async = true;
 
 		document.body.appendChild(script);
