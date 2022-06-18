@@ -3,7 +3,7 @@ function Hello (){
   
     return(
 
-<div id="hero" className="hero route bg-image" style={{backgroundImage: "url(assets/img/hero-bg.jpg)"}}>
+<div id="hero" className="hero route bg-image" style={{backgroundImage: "url(assets/img/hero-bg.png)"}}>
     <div className="overlay-itro"></div>
     <div className="hero-content display-table">
       <div className="table-cell">

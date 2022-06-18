@@ -44,8 +44,6 @@ function App() {
 
 		const script = document.createElement('script');
 		script.src = "/assets/js/main.js";
-		// script.src= "/assets/vendor/purecounter/purecounter.js"
-	
 		script.async = true;
 
 		document.body.appendChild(script);
