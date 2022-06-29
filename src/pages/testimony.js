@@ -14,7 +14,7 @@ function Testimony () {
                 <div className="swiper-slide">
                   <div className="testimonial-box">
                     <div className="author-test">
-                      <img src="assets/img/testimonial-2.jpg" alt="" className="rounded-circle b-shadow-a"/>
+                      <img src="assets/img/testimonial-2.png" alt="" className="rounded-circle b-shadow-a"/>
                       <span className="author">Xavi Alonso</span>
                     </div>
                     <div className="content-test">

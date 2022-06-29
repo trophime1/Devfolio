@@ -13,15 +13,15 @@ function About(){
               <div className="row">
                 <div className="col-sm-6 col-md-5">
                   <div className="about-img">
-                    <img src="assets/img/testimonial-2.jpg" className="img-fluid rounded b-shadow-a" alt=""/>
+                    <img src="assets/img/testimonial-2.png" className="img-fluid rounded b-shadow-a" alt=""/>
                   </div>
                 </div>
                 <div className="col-sm-6 col-md-7">
                   <div className="about-info">
-                    <p><span className="title-s">Name: </span> <span>Morgan Freeman</span></p>
-                    <p><span className="title-s">Profile: </span> <span>full stack developer</span></p>
-                    <p><span className="title-s">Email: </span> <span>contact@example.com</span></p>
-                    <p><span className="title-s">Phone: </span> <span>(617) 557-0089</span></p>
+                    <p><span className="title-s">Name: </span> <span>Trophime KARASISI</span></p>
+                    <p><span className="title-s">Profile: </span> <span>Frontend developer</span></p>
+                    <p><span className="title-s">Email: </span> <span>trophime3@gmail.com</span></p>
+                    <p><span className="title-s">Phone: </span> <span>+250 786 866 091</span></p>
                   </div>
                 </div>
               </div>
@@ -29,7 +29,7 @@ function About(){
                 <p className="title-s">Skill</p>
                 <span>HTML</span> <span className="pull-right">85%</span>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" style={{width: "85%;"}} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{width: "75%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <span>CSS3</span> <span className="pull-right">75%</span>
                 <div className="progress">
