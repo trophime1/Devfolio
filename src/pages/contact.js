@@ -65,17 +65,17 @@ function Contact (){
                         mollitia inventore?
                       </p>
                       <ul className="list-ico">
-                        <li><span className="bi bi-geo-alt"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                        <li><span className="bi bi-phone"></span> (617) 557-0089</li>
-                        <li><span className="bi bi-envelope"></span> contact@example.com</li>
+                        <li><span className="bi bi-geo-alt"></span> Kigali-Rwanda</li>
+                        <li><span className="bi bi-phone"></span> +250 786 866 091</li>
+                        <li><span className="bi bi-envelope"></span> trophime3@gmail</li>
                       </ul>
                     </div>
                     <div className="socials">
                       <ul>
-                        <li><a href=""><span className="ico-circle"><i className="bi bi-facebook"></i></span></a></li>
-                        <li><a href=""><span className="ico-circle"><i className="bi bi-instagram"></i></span></a></li>
-                        <li><a href=""><span className="ico-circle"><i className="bi bi-twitter"></i></span></a></li>
-                        <li><a href=""><span className="ico-circle"><i className="bi bi-linkedin"></i></span></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100008436885107"><span className="ico-circle"><i className="bi bi-facebook"></i></span></a></li>
+                        <li><a href="https://www.instagram.com/trophime250/"><span className="ico-circle"><i className="bi bi-instagram"></i></span></a></li>
+                        <li><a href="https://twitter.com/Theprie59583402"><span className="ico-circle"><i className="bi bi-twitter"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/trophime-karasisi-1186b622b/"><span className="ico-circle"><i className="bi bi-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
