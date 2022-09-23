@@ -30,9 +30,6 @@ useEffect( ()=>{
           <li><a className="nav-link scrollto" href="#services">Services</a></li>
           <li><a className="nav-link scrollto " href="#work">Work</a></li>
           <li><a className="nav-link scrollto " href="#blog">Blog</a></li>
-          <li className="dropdown"><a href="#"><span>Drop Down</span> <i className="bi bi-chevron-down"></i></a>
-            
-          </li>
           <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i id='sdbartog' className="bi bi-list mobile-nav-toggle"></i>
