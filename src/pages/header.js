@@ -19,7 +19,7 @@ useEffect( ()=>{
         <header id="header" className="fixed-top">
     <div className="container d-flex align-items-center justify-content-between">
 
-      <h1 className="logo"><a href="index.html">Trophime</a></h1>
+      <h1 className="logo"><a href="index.html">Danny HAGENIMANA</a></h1>
       
       <a href="#" className="logo"><img src="public/assets/img/logo.png" alt="" className="img-fluid" /></a>
 

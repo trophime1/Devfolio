@@ -8,7 +8,7 @@ function Potifolio (){
           <div class="col-sm-12">
             <div class="title-box text-center">
               <h3 class="title-a">
-                Portfolio
+                Rewards
               </h3>
               <p class="subtitle-a">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
