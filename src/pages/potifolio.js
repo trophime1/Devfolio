@@ -30,7 +30,7 @@ function Potifolio (){
                   <div class="col-sm-8">
                     <h2 class="w-title">Lorem impsum dolor</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Icef certificate</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Icef certificate</span> / <span class="w-date">28 Dec. 2023</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -54,7 +54,7 @@ function Potifolio (){
                   <div class="col-sm-8">
                     <h2 class="w-title">Loreda Cuno Nere</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">British Council </span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">British Council </span> / <span class="w-date">04 Jan. 2023</span>
                     </div>
                   </div>
                   <div class="col-sm-4">

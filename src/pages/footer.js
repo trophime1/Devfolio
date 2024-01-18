@@ -8,7 +8,7 @@ function Footer()
       <div className="row">
         <div className="col-sm-12">
           <div className="copyright-box">
-            <p className="copyright">&copy; Copyright <strong>Trophime Des</strong>. All Rights Reserved</p>
+            <p className="copyright">&copy; Copyright <strong>Daniel HAGENIMANA</strong>. All Rights Reserved</p>
             <div className="credits">
               {/* <!--
               All the links in the footer should remain intact.

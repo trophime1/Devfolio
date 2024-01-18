@@ -66,8 +66,8 @@ function Contact (){
                       </p>
                       <ul className="list-ico">
                         <li><span className="bi bi-geo-alt"></span> Kigali-Rwanda</li>
-                        <li><span className="bi bi-phone"></span> +250 786 866 091</li>
-                        <li><span className="bi bi-envelope"></span> ceo@uhdss.com</li>
+                        <li><span className="bi bi-phone"></span> +250 785 395 473</li>
+                        <li><span className="bi bi-envelope"></span> me@hagenimanadaniel.com</li>
                       </ul>
                     </div>
                     <div className="socials">

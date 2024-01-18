@@ -20,28 +20,31 @@ function About(){
                   <div className="about-info">
                     <p><span className="title-s">Name: </span> <span>Daniel HAGENIMANA</span></p>
                     <p><span className="title-s">Profile: </span> <span>UHDSS GROUP</span></p>
-                    <p><span className="title-s">Email: </span> <span>ceo@uhdss.com</span></p>
+                    <p><span className="title-s">Email: </span> <span>me@hagenimanadaniel.com</span></p>
                     <p><span className="title-s">Phone: </span> <span>+250 785 395 473 </span></p>
                   </div>
                 </div>
               </div>
               <div className="skill-mf">
                 <p className="title-s">Skill</p>
-                <span>HTML</span> <span className="pull-right">85%</span>
+                <span>Management</span> <span className="pull-right">98%</span>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" style={{width: "75%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{width: "98%"}} aria-valuenow="98" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-                <span>CSS3</span> <span className="pull-right">75%</span>
+                <span>Problem Soliving</span> <span className="pull-right">98%</span>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" style={{width: "75%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{width: "98%"}} aria-valuenow="98" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-                <span>PHP</span> <span className="pull-right">50%</span>
+                <span>Risk Management</span> <span className="pull-right">95%</span>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" style={{width: "50%"}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{width: "95%"}} aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-                <span>JAVASCRIPT</span> <span className="pull-right">90%</span>
+                <span>Better Communication</span> <span className="pull-right">99%</span>
                 <div className="progress">
-                  <div className="progress-bar" role="progressbar" style={{width: "90%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" style={{width: "99%"}} aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
+                </div><span>Leadership</span> <span className="pull-right">99%</span>
+                <div className="progress">
+                  <div className="progress-bar" role="progressbar" style={{width: "99%"}} aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
             </div>
@@ -53,20 +56,19 @@ function About(){
                   </h5>
                 </div>
                 <p className="lead">
-                  Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                  imperdiet et, porttitor
-                  at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                  porttitor accumsan tincidunt.
+                Daniel Hagenimana is a Rwandan entrepreneur. He is the CEO of UHDSS GROUP, Universal ,
+                UHDSS education agency, 
+                Universal Certification, Top Skills World, and Universal Brokers. 
                 </p>
                 <p className="lead">
-                  Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                  porttitor volutpat. Vestibulum
-                  ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
+                Born on 23rd October 1998 in Nyanza, southern Rwanda, he serves as a business advisor and 
+                consultant specializing in business development, 
+                strategic change management, and market analysis.
                 </p>
                 <p className="lead">
-                  Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                  Nulla porttitor accumsan
-                  tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+                He enjoys attending youth business forums and possesses experience in project management and 
+                initiating businesses from the ground up, particularly in the field of education. 
+                He is expected to complete his Doctorate in Business Management by 2025.
                 </p>
               </div>
             </div>
