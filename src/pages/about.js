@@ -13,15 +13,15 @@ function About(){
               <div className="row">
                 <div className="col-sm-6 col-md-5">
                   <div className="about-img">
-                    <img src="assets/img/testimonial-2.png" className="img-fluid rounded b-shadow-a" alt=""/>
+                    <img src="assets/img/danny.png" className="img-fluid rounded b-shadow-a" alt=""/>
                   </div>
                 </div>
                 <div className="col-sm-6 col-md-7">
                   <div className="about-info">
-                    <p><span className="title-s">Name: </span> <span>Trophime KARASISI</span></p>
-                    <p><span className="title-s">Profile: </span> <span>Frontend developer</span></p>
-                    <p><span className="title-s">Email: </span> <span>trophime3@gmail.com</span></p>
-                    <p><span className="title-s">Phone: </span> <span>+250 786 866 091</span></p>
+                    <p><span className="title-s">Name: </span> <span>Daniel HAGENIMANA</span></p>
+                    <p><span className="title-s">Profile: </span> <span>UHDSS GROUP</span></p>
+                    <p><span className="title-s">Email: </span> <span>ceo@uhdss.com</span></p>
+                    <p><span className="title-s">Phone: </span> <span>+250 785 395 473 </span></p>
                   </div>
                 </div>
               </div>

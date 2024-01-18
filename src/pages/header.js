@@ -19,9 +19,9 @@ useEffect( ()=>{
         <header id="header" className="fixed-top">
     <div className="container d-flex align-items-center justify-content-between">
 
-      <h1 className="logo"><a href="index.html">Danny HAGENIMANA</a></h1>
+      <h1 className="logo"><a href="index.html">Daniel HAGENIMANA</a></h1>
       
-      <a href="#" className="logo"><img src="public/assets/img/logo.png" alt="" className="img-fluid" /></a>
+      <a href="#" className="logo"><img src="assets/img/logo1.png" alt="" className="img-fluid" /></a>
 
       <nav id="navbar" className="navbar">
         <ul>
@@ -29,7 +29,7 @@ useEffect( ()=>{
           <li><a className="nav-link scrollto" href="#about">About</a></li>
           <li><a className="nav-link scrollto" href="#services">Services</a></li>
           <li><a className="nav-link scrollto " href="#work">Work</a></li>
-          <li><a className="nav-link scrollto " href="#blog">Blog</a></li>
+          <li><a className="nav-link scrollto " href="#blog">Ownership</a></li>
           <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i id='sdbartog' className="bi bi-list mobile-nav-toggle"></i>

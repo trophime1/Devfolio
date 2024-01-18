@@ -11,7 +11,7 @@ import Blog from './pages/blog';
 import Contact from './pages/contact';
 import Footer from './pages/footer';
 import { useEffect } from 'react';
-import {BrowserRouter as Router ,Route ,Routes} from 'react-router-dom';
+// import {BrowserRouter as Router ,Route ,Routes} from 'react-router-dom';
 // import "bootstrap/dist/css/bootstrap.min.css"
 
 

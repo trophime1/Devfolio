@@ -2,7 +2,7 @@ import React from "react";
 function Testimony () {
     return(
         <>
-         <div className="testimonials paralax-mf bg-image" style={{backgroundImage: "url(assets/img/overlay-bg.jpg)"}}>
+         {/* <div className="testimonials paralax-mf bg-image" style={{backgroundImage: "url(assets/img/overlay-bg.jpg)"}}>
       <div className="overlay-mf"></div>
       <div className="container">
         <div className="row">
@@ -50,7 +50,7 @@ function Testimony () {
           </div>
         </div>
       </div>
-      </div>
+      </div> */}
         </>
     );
 } 

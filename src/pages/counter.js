@@ -2,7 +2,7 @@ import React from "react";
 function Counter (){
     return (
     <>
-        <div className="section-counter paralax-mf bg-image" style={{backgroundImage: "url(assets/img/counters-bg.jpg)"}}>
+        {/* <div className="section-counter paralax-mf bg-image" style={{backgroundImage: "url(assets/img/counters-bg.jpg)"}}>
         <div className="overlay-mf"></div>
         <div className="container position-relative">
           <div className="row">
@@ -52,7 +52,7 @@ function Counter (){
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       </>
     );
 
