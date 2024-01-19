@@ -20,7 +20,7 @@ function Potifolio (){
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a target="blank" href="assets/img/icef2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src="assets/img/icef2.jpg" alt="" class="img-fluid"/>
                 </div>
@@ -28,14 +28,14 @@ function Potifolio (){
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Lorem impsum dolor</h2>
+                    <h2 class="s-title">Icef Academy</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Icef certificate</span> / <span class="w-date">28 Dec. 2023</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a target="blank" href="https://drive.google.com/file/d/1LPA-NgG17S5v_nfjcLs8oYqoL0FwMgiw/view?usp=drive_link"> <span class="bi bi-eye"></span></a>
                     </div>
                   </div>
                 </div>
@@ -44,7 +44,7 @@ function Potifolio (){
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a target="blank" href="assets/img/british2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src="assets/img/british2.jpg" alt="" class="img-fluid"/>
                 </div>
@@ -52,21 +52,21 @@ function Potifolio (){
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Loreda Cuno Nere</h2>
+                    <h2 class="s-title">British Council</h2>
                     <div class="w-more">
                       <span class="w-ctegory">British Council </span> / <span class="w-date">04 Jan. 2023</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a target="blank" href="https://drive.google.com/file/d/1JOeDAahkm28etEtBPELDkwkcQcIgmASI/view?usp=drive_link"> <span class="bi bi-eye"></span></a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          {/* <div class="col-md-4">
             <div class="work-box">
               <a href="assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
@@ -83,13 +83,13 @@ function Potifolio (){
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-eye"></span></a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           {/* <div class="col-md-4">
             <div class="work-box">
               <a href="assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
@@ -107,7 +107,7 @@ function Potifolio (){
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-eye"></span></a>
                     </div>
                   </div>
                 </div>

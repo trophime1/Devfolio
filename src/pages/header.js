@@ -28,7 +28,7 @@ useEffect( ()=>{
           <li><a className="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a className="nav-link scrollto" href="#about">About</a></li>
           <li><a className="nav-link scrollto" href="#services">Services</a></li>
-          <li><a className="nav-link scrollto " href="#work">Work</a></li>
+          <li><a className="nav-link scrollto " href="#work">Rewards</a></li>
           <li><a className="nav-link scrollto " href="#blog">Ownership</a></li>
           <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>

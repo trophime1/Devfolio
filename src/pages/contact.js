@@ -1,5 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 function Contact (){
+const [subject, setSubject] = useState('');
+const [message, setMessage] = useState('');
+
+
     return (
 <>
 <section id="contact" className="paralax-mf footer-paralax bg-image sect-mt4 route" style={{backgroundImage: "url(assets/img/overlay-bg.jpg)"}}>
@@ -17,7 +21,7 @@ function Contact (){
                       </h5>
                     </div>
                     <div>
-                      <form action="forms/contact.php" method="post" role="form" className="php-email-form">
+                      <form  className="php-email-form">
                         <div className="row">
                           <div className="col-md-12 mb-3">
                             <div className="form-group">
@@ -31,12 +35,12 @@ function Contact (){
                           </div>
                           <div className="col-md-12 mb-3">
                             <div className="form-group">
-                              <input type="text" className="form-control" name="subject" id="subject" placeholder="Subject" required />
+                              <input type="text" className="form-control" name="subject" id="subject" placeholder="Subject" required onChange={(e)=> setSubject(e.target.value)} />
                             </div>
                           </div>
                           <div className="col-md-12">
                             <div className="form-group">
-                              <textarea className="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                              <textarea className="form-control" name="message" rows="5" placeholder="Message" required onChange={(e)=>setMessage(e.target.value)}></textarea>
                             </div>
                           </div>
                           <div className="col-md-12 text-center my-3">
@@ -45,7 +49,13 @@ function Contact (){
                             <div className="sent-message">Your message has been sent. Thank you!</div>
                           </div>
                           <div className="col-md-12 text-center">
-                            <button type="submit" className="button button-a button-big button-rouded">Send Message</button>
+                            <button type="button" className="button button-a button-big button-rouded">
+                              <a href={`mailto:me@danielhagenimana.com?Regarding 
+                                   ${subject}&body=${message}`} 
+                                 className="bg-slate-700 uppercase text-white p-3 rounded-lg text-center hover:opacity-95">
+                                   Send message
+                                 </a>
+                              </button>
                           </div>
                         </div>
                       </form>
@@ -59,10 +69,9 @@ function Contact (){
                     </div>
                     <div className="more-info">
                       <p className="lead">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                        expedita aperiam aliquid at.
-                        Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                        mollitia inventore?
+                      I'm here to provide information and complete tasks as instructed, 
+                      so if you have something you'd like to know or need done, 
+                      contacting me is the perfect way to do it.
                       </p>
                       <ul className="list-ico">
                         <li><span className="bi bi-geo-alt"></span> Kigali-Rwanda</li>

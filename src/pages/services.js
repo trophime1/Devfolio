@@ -76,7 +76,7 @@ function Services(){
                 <span className="ico-circle"><i className="bi bi-binoculars"></i></span>
               </div>
               <div className="service-content">
-                <h2 className="s-title">Consultancy</h2>
+                <h2 className="s-title">Business Consultancy</h2>
                 <p className="s-description text-center">
                 Feeling stuck in the mire of everyday operations? Let our expert business 
                 management consultants be your guiding light. We navigate the complexities, 
@@ -95,12 +95,12 @@ function Services(){
                 <span className="ico-circle"><i className="bi bi-brightness-high"></i></span>
               </div>
               <div className="service-content">
-                <h2 className="s-title"></h2>
+                <h2 className="s-title">Business Sponsorship</h2>
                 <p className="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
-                </p>
+                Take several forms, but generally it connects businesses 
+                seeking sponsorship opportunities with organizations or events 
+                looking for sponsors. They act as matchmakers, facilitators, and sometimes even consultants,
+                 guiding both sides through the sponsorship process. prepare your Business plan then come and join me.</p>
                <button className="btn btn-success"> <a href="https://wa.me/250785395473" target="black" className="">Let's connect <i class="bi bi-whatsapp"></i></a></button>
 
               </div>
@@ -112,11 +112,12 @@ function Services(){
                 <span className="ico-circle"><i className="bi bi-calendar4-week"></i></span>
               </div>
               <div className="service-content">
-                <h2 className="s-title">Marketing Services</h2>
+                <h2 className="s-title">Market Analysis</h2>
                 <p className="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                Provides insights into potential customers and your competition. 
+                The core components of the market analysis are: Industry analysis: Assesses 
+                the general industry environment in which you compete. Target market analysis: Identifies 
+                and quantifies the customers that you will be targeting for sales.
                 </p>
                <button className="btn btn-success"> <a href="https://wa.me/250785395473" target="black" className="">Let's connect <i class="bi bi-whatsapp"></i></a></button>
 

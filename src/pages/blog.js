@@ -21,7 +21,7 @@ function Blog (){
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="https://www.universal-cert.com"><img src="assets/img/logo.png" alt="" class="img-fluid"/></a>
+                <a target="blank" href="https://www.universal-cert.com"><img src="assets/img/logo.png" alt="" class="img-fluid"/></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -31,9 +31,7 @@ function Blog (){
                 </div>
                 <h3 class="card-title"><a target="blank" href="https://www.universal-cert.com">Universal cert</a></h3>
                 <p class="card-description">
-                  Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                  a pellentesque nec,
-                  egestas non nisi.
+                Making ISO Certification Easier.<br></br>Certification in Hours not in Days
                 </p>
               </div>
               <div class="card-footer">
@@ -51,7 +49,7 @@ function Blog (){
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="https://www.uhdss.com"><img src="assets/img/uhdss logo.png" alt="" class="img-fluid"/></a>
+                <a target="blank" href="https://www.uhdss.com"><img src="assets/img/uhdss logo.png" alt="" class="img-fluid"/></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -61,9 +59,7 @@ function Blog (){
                 </div>
                 <h3 class="card-title"><a target = "blank"  href="https://www.uhdss.com">UHDSS</a></h3>
                 <p class="card-description">
-                  Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                  a pellentesque nec,
-                  egestas non nisi.
+                Welcome to the Africa's best Education Agency.
                 </p>
               </div>
               <div class="card-footer">
@@ -91,14 +87,12 @@ function Blog (){
                 </div>
                 <h3 class="card-title"><a  target = "blank" href="https://topskills.courses">TopSkills</a></h3>
                 <p class="card-description">
-                  Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                  a pellentesque nec,
-                  egestas non nisi.
+                Study any topic, anytime. explore thousands of courses for the lowest price ever!
                 </p>
               </div>
               <div class="card-footer">
                 <div class="post-author">
-                  <a href="https://topskills.courses/">
+                  <a target="blank" href="https://topskills.courses/">
                   <i class="bi bi-arrow-return-right"></i> 
                   
                     <span class="author">Visit Us</span>
@@ -121,9 +115,8 @@ function Blog (){
                 </div>
                 <h3 class="card-title"><a target="blank" href="https://universal-brokers.com/">Universal brokers</a></h3>
                 <p class="card-description">
-                  Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                  a pellentesque nec,
-                  egestas non nisi.
+                Best Renting and buying Platform
+Sells and Rents Houses, cars, and plots
                 </p>
               </div>
               <div class="card-footer">
