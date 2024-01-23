@@ -100,6 +100,18 @@ function Testimony () {
                       zabanya africa muri rusange abanya Libya , Iraq, siriya bakwiye ubutabera , burya ukuri ntago ari ukuri nkuko byumvikana ahubwo 
                       ukuri nuruhande ruriho abanya bubasha gusa amahirwe ntago ububasha buhora hamwe ubwo ukuri nako guhora kwimuka.
                       Abari kwiga sibo bagakwiye kwiga  ahubwo abadakwiye kwiga usanga bari kwigishwa kwiyakira mubuzima bubi barimo kubera kuyoborwa 
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide">
+                  <div className="testimonial-box">
+                    <div className="author-test">
+                      <img src="assets/img/testimonial-4.jpg" alt="" className="rounded-circle b-shadow-a"/>
+                      <span className="author">Daniel HAGENIMANA</span>
+                    </div>
+                    <div className="content-test">
+                      <p className="description lead">
                       nabadafite ubushobozi buhagije bwimitekerereze ahubwo bashyira imbere ikenewabo , akenshi muri africa abafite power usanga 
                       ntabumenyi ariko abafite ubumenyi ugasanga nta power bafite , ndushyiraho ubuyobizi nagira wawundi ubasha guha inkoko imwe mumwaka 
                       akaguha ihene minstri wimari kurusha wawundi umufite amashuri ahanitse utabasha nagato kugabanya miliyari mubaturage ngo abahe

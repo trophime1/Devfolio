@@ -81,10 +81,10 @@ const [message, setMessage] = useState('');
                     </div>
                     <div className="socials">
                       <ul>
-                        <li><a href="https://www.facebook.com/profile.php?id=100008436885107"><span className="ico-circle"><i className="bi bi-facebook"></i></span></a></li>
-                        <li><a href="https://www.instagram.com/trophime250/"><span className="ico-circle"><i className="bi bi-instagram"></i></span></a></li>
-                        <li><a href="https://twitter.com/Theprie59583402"><span className="ico-circle"><i className="bi bi-twitter"></i></span></a></li>
-                        <li><a href="https://www.linkedin.com/in/trophime-karasisi-1186b622b/"><span className="ico-circle"><i className="bi bi-linkedin"></i></span></a></li>
+                        <li><a target="blank" href="https://www.facebook.com/daniel.hagenimana.98"><span className="ico-circle"><i className="bi bi-facebook"></i></span></a></li>
+                        <li><a target="blank" href="https://www.instagram.com/hagenimanadanielofficial/"><span className="ico-circle"><i className="bi bi-instagram"></i></span></a></li>
+                        {/* <li><a target="blank" href="https://twitter.com/Theprie59583402"><span className="ico-circle"><i className="bi bi-twitter"></i></span></a></li> */}
+                        <li><a target="blank" href="https://www.linkedin.com/in/hagenimana-daniel-b5a7b31b4/"><span className="ico-circle"><i className="bi bi-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
