@@ -74,7 +74,7 @@ function Testimony () {
                     </div>
                     <div className="content-test">
                       <p className="description lead">
-                      Leta zibihugu bya africa zikwiye gushyira imbaraga mu guhanga imirimo 
+                      Leta zibihugu bya Africa zikwiye gushyira imbaraga mu guhanga imirimo 
                       ndetse nabikorera niba bifuza kudusigira ibihugu tuzabamo ntamyenda 
                       yabanyaburayi nabuburengerazuba bwisi , dukwiye gushinga ama company 
                       duteganya ko azagera kundunduro yintego zacu byibuze mumyaka 50 irimbere

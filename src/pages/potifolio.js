@@ -8,7 +8,7 @@ function Potifolio (){
           <div class="col-sm-12">
             <div class="title-box text-center">
               <h3 class="title-a">
-                Rewards
+                Rewards and Book
               </h3>
               <p class="subtitle-a">
                 
@@ -20,7 +20,7 @@ function Potifolio (){
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a target="blank" href="assets/img/icef2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="assets/img/icef2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src="assets/img/icef2.jpg" alt="" class="img-fluid"/>
                 </div>
@@ -44,7 +44,7 @@ function Potifolio (){
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a target="blank" href="assets/img/british2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a  href="assets/img/british2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src="assets/img/british2.jpg" alt="" class="img-fluid"/>
                 </div>
@@ -60,6 +60,30 @@ function Potifolio (){
                   <div class="col-sm-4">
                     <div class="w-like">
                       <a target="blank" href="https://drive.google.com/file/d/1JOeDAahkm28etEtBPELDkwkcQcIgmASI/view?usp=drive_link"> <span class="bi bi-eye"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a target="blank" href="assets/img/book.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/book.png" alt="" class="img-fluid"/>
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h6 class="s-title">The journey to success</h6>
+                    <div class="w-more">
+                      <span class="w-ctegory">Published</span> / <span class="w-date">@ Daniel Hagenimana 2024</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a target="blank" href="https://res.cloudinary.com/dg611cbhp/image/upload/v1706696683/uhdss/Thejourneytosucess_fylr2t.pdf"> <span class="bi bi-download"></span></a>
                     </div>
                   </div>
                 </div>
